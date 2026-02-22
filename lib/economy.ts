@@ -1,0 +1,4 @@
+
+export const INITIAL_CONTINUE_COST = 50
+export const CONTINUE_MULTIPLIER = 1.6
+export const REWARDED_AD_REWARD = 40
